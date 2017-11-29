@@ -1,4 +1,4 @@
-## Making animated gifs with Gifsicle and Imagemagick.
+## Making animated gifs with Gifsicle and Imagemagick
 
 Gifsicle makes it easy to create gifs and resize them as well, handy when trying 
 to get the gif down to a share-able size (3MB limit for twitter) 
