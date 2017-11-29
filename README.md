@@ -1,6 +1,6 @@
 ## Making animated gifs with Gifsicle and Imagemagick
 
-Gifsicle makes it easy to create gifs and resize them as well, handy when trying 
+[Gifsicle](https://www.lcdf.org/gifsicle/) makes it easy to create gifs and resize them as well, handy when trying 
 to get the gif down to a share-able size (3MB limit for twitter) 
 
 Gifsicle requires gifs as input though, so Imagemagick comes into play when you need 
