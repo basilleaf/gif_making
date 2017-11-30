@@ -10,7 +10,7 @@ and pipe them directly into gifsicle in the same command:
 
 Create an animated gif from jpegs and resize the resulting gif: 
 
-	convert *.jpg gif:- | gifsicle --delay=10 --loop  --resize 300x300 > anim.gif
+	convert *.jpg gif:- | gifsicle --delay=10 --loop  --resize 600x600 > anim.gif
 
 View in Chrome: 
 
