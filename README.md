@@ -1,16 +1,12 @@
 ## Finding the images
 
-The gifs I've made here are made with still images I found using (@PDSopus)[https://twitter.com/pdsopus]. Cassini space probe is a good candidate for easy gif-making as it was a very stable camera platform. Here is a short screencast showing how to use OPUS to browse Cassini images and download sequences that might make good animated gifs.
+The gifs I've made here are made with still images I found browsing (@PDSopus)[https://twitter.com/pdsopus] search tool. Cassini space probe is a good candidate for easy gif-making as it was a very stable camera platform. Included in this repo and (here on youtube)[https://youtu.be/b9yFG8vMS8M] is a short screencast demonstrating how to use OPUS to browse Cassini images and download sequences that might make good animated gifs.
 
-## Making animated gifs with Gifsicle and Imagemagick
+## Making animated gifs at the command line with Gifsicle and Imagemagick
 
-[Gifsicle](https://www.lcdf.org/gifsicle/) makes it easy to create gifs and resize them as well, handy when trying
-to get the gif down to a share-able size (3MB limit for twitter)
+[Gifsicle](https://www.lcdf.org/gifsicle/) makes it easy to create gifs and resize them as well, handy when trying to get the gif down to a share-able size (3MB limit for twitter)
 
-Gifsicle requires gifs as input though, so Imagemagick comes into play when you need
-to do file conversions as well, like when you have a collection of jpegs you want to
-animate you'll have to convert them to gif first. Fortunately you can use Imagemagick
-and pipe them directly into gifsicle in the same command:
+Gifsicle requires gifs as input though, so Imagemagick comes into play when you need to do file conversions as well, like when you have a collection of jpegs you want to animate you'll have to convert them to gif first. Fortunately you can use Imagemagick and pipe them directly into gifsicle in the same command:
 
 Create an animated gif from jpegs and resize the resulting gif:
 
@@ -21,10 +17,10 @@ View in Chrome:
 	open -a Google\ Chrome anim.gif
 
 
-## Installing
+## Installing Gifsicle and Imagemagick
 
-Image Magic:
-see http://cactuslab.com/imagemagick/
+Imagemagick:
+I used http://cactuslab.com/imagemagick/
 
 gifsicle:
 
