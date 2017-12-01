@@ -1,6 +1,6 @@
 ## Finding the images
 
-The gifs I've made here are made with still images I found browsing [@PDSopus](https://tools.pds-rings.seti.org/opus) search tool. Cassini space probe is a good candidate for easy gif-making as it was a very stable camera platform. Included in this repo and [here on youtube](https://youtu.be/b9yFG8vMS8M) is a short screencast demonstrating how to use OPUS to browse Cassini images and download sequences that might make good animated gifs.
+The gifs I've made here are made with still images I found browsing [@PDSopus](https://tools.pds-rings.seti.org/opus) search tool. Cassini space probe is a good candidate for easy gif-making as it was a very stable camera platform. Included in this repo and [here on Vimeo](https://vimeo.com/245433958) is a short screencast demonstrating how to use OPUS to browse Cassini images and download sequences that might make good animated gifs.
 
 ## Making animated gifs at the command line with Gifsicle and Imagemagick
 
